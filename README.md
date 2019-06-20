@@ -46,7 +46,7 @@ Sıcaklık 25 dereceden fazla ise fan çalışacak.
 1. Duman ve karbondioksit seviyesini ölçen system yapılıp değerler LCD gösterilecek.
 2. Eğer belli seviyenin üstündeyse ve sıcaklıkta yüksekse, yangın alarmı buzzer ile verilecek.
 
-7. RFID giriş sistemi
+### 7. RFID giriş sistemi
 1. RFID ile en son kişi girişlerin ad soyad bilgilerini lcd üzerinde gösterin.
 
 
