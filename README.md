@@ -1,7 +1,6 @@
 # Smart Greenhouse - Akıllı Sera Arduino Projesi
 
-
-## Alınacaklar Lisetesi
+## Alınacaklar Listesi
 
 | ÜRÜN        | ADET
 | ------------- |:-------------:|
