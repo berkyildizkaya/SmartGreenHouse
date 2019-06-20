@@ -50,8 +50,6 @@ Sıcaklık 25 dereceden fazla ise fan çalışacak.
 1. RFID ile en son kişi girişlerin ad soyad bilgilerini lcd üzerinde gösterin.
 
 
-
-
 # Kodlar ve Bağlantılar
  ## ISI 
 ![LM35](https://user-images.githubusercontent.com/48087914/58386678-ea92de00-800b-11e9-8f87-b82a58a447c5.png)
@@ -565,3 +563,10 @@ void readEEPROM()
   kart3.toUpperCase();
 }
 ```
+
+# Gifler
+## Işık Kontrolü
+![gif](https://user-images.githubusercontent.com/48087914/57494301-38e87300-72d1-11e9-9f9c-857a82bcd126.gif)
+
+## Hırsız Kontrolü
+![gif](https://user-images.githubusercontent.com/48087914/57499855-d2238380-72e9-11e9-828b-9710efebb5fb.gif)
